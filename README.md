@@ -12,7 +12,7 @@ EXTERNAL / YOU NEED YOUR OWN DRIVER FOR IT TO WORK. IF YOU DON'T WANT TO CREATE 
 *** 
   <p align="center">
     <a href="https://discord.com/users/943374631644045363">
-        <img title="iCube discord" alt="iCube's discord" src="https://discord.c99.nl/widget/theme-3/943374631644045363.png"/>
+        <img title="iCube discord" alt="iCube's discord" src=""/>
     </a>
 </p> 
 
@@ -20,7 +20,7 @@ EXTERNAL / YOU NEED YOUR OWN DRIVER FOR IT TO WORK. IF YOU DON'T WANT TO CREATE 
  
 ***
  
-### 💬 DISCORD ・ [CLOUD | PROJECT](https://discord.gg/MBTkVcJefp) 
+### 💬 DISCORD ・ [CLOUD | PROJECT](https://discord.gg/) 
 
  
 * ` 🛒: Product :  Cheating Private | Spoofer | Source code | Driver `
@@ -72,12 +72,12 @@ Max Distance
 
 
 
-https://user-images.githubusercontent.com/94861415/179345884-75769805-4197-4557-a0a8-4d473b99312a.mp4
+
 
 
 ***
-![fn fnober](https://user-images.githubusercontent.com/94861415/192077908-f8980c78-a028-4b90-bd14-5413595bf96e.png)
-![fas](https://user-images.githubusercontent.com/94861415/192078096-e5e5ec51-ab4b-4042-9c88-76e15bfde2e2.png)
+![fn fnober]()
+![fas]()
 
 
 
